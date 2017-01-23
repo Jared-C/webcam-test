@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","sources":["style.scss"],"sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n\tbox-sizing: border-box;\n}\n\nbody {\n\toverflow: hidden;\n}"],"mappings":"AAAA,AAAA,CAAC,AAAC,CACD,MAAM,CAAE,CAAE,CACV,OAAO,CAAE,CAAE,CACX,UAAU,CAAE,UAAW,CACvB,AAED,AAAA,IAAI,AAAC,CACJ,QAAQ,CAAE,MAAO,CACjB","names":[]}
