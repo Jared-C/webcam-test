@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb",
+  "env": {
+  	"browser": true
+  },
+  "globals": { "jQuery": true },
+  "rules": {
+  	"camelcase": 0,
+  	"indent": ["error", "tab", { "SwitchCase": 1 }],
+  	"max-len": ["error", 1000, { "ignoreComments": true }],
+  	"no-tabs": 0,
+    "comma-dangle": 0,
+  }
+}
